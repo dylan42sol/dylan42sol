@@ -1,6 +1,6 @@
   
 <div style='display: flex; flex-direction: row; justify-content: space-between; align-items: center'>
-    <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=dylan42sol&count_private=true&show_icons=true&theme=omni&hide_border=true" alt="Demon's github stats" />
+    <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=dylanwangeth&count_private=true&show_icons=true&theme=omni&hide_border=true" alt="Demon's github stats" />
   <div>
     <h3>ABOUT ME</h3>
     <p>🔭 I'm currently a Software Engineer at <a href="https://www.avinasi.ai" target="_blank">Avinasi Labs</a>, building secure infrastructure for biomedical data using Web3 and AI.</p>
